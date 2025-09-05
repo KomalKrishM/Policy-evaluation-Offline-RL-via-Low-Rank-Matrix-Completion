@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 15 15:23:09 2024
 
-@author: komal
+@author: Komal
 """
 
 import numpy as np
@@ -175,6 +175,7 @@ plt.show()
 # ax.set_xlabel('iterations')
 # ax.figure.savefig('LRMC with rank {}'.format(r))
 # plt.show()
+
 
 
 
