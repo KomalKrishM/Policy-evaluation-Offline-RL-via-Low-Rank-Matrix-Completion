@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 13 19:26:04 2024
 
-@author: komal
+@author: Komal
 """
 
 import numpy as np
@@ -70,4 +70,5 @@ ax.semilogy(range(T+1), SD)
 ax.grid()
 
 plt.show()
+
 
