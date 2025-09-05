@@ -2,7 +2,7 @@
 """
 Created on Fri Aug  9 10:56:57 2024
 
-@author: komal
+@author: Komal
 """
 
 import numpy as np
@@ -70,5 +70,6 @@ q = 3
 
 
     
+
 
     
