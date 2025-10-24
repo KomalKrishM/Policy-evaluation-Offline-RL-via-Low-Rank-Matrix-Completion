@@ -61,21 +61,22 @@ class LinearAlgebra:
         return X, U, B
         # return X
 
-# def main():
+def main():
 
-#     r = 2
-#     no_smpls = 5
-#     q = 3
-#     ##### this function generates a n * q rank r matrix but doesn't work for r = 1 ######## 
-#     X = LinearAlgebra.generate_rank_r_matrix(r, no_smpls, q)
-
-
-# if __name__ == "__main__":
-#     main()
+    r = 2
+    no_smpls = 5
+    q = 3
+    ##### this function generates a n * q rank r matrix but doesn't work for r = 1 ######## 
+    X = LinearAlgebra.generate_rank_r_matrix(r, no_smpls, q)
 
 
+if __name__ == "__main__":
+    main()
 
+
+
+
+    
 
     
 
-    
